@@ -9,6 +9,7 @@ body {
 
 main {
   margin: 80px 30%;
+  padding: 20px;
   border: 2px;
   background-color:(255,255,255,1);
   color: blue;
