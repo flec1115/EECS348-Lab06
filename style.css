@@ -29,9 +29,9 @@ a {
 }
 
 h1 {
-  border: 5px solid white;
-  background-color: green;
-  color: white;
+  border: 5px solid black;
+  background-color: rgba(0,255,0,1);
+  color: rgba(255,255,255,1);
 }
 
 
