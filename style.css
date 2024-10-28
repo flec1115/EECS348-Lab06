@@ -7,3 +7,6 @@ body {
   background-attachment: fixed;
 }
 
+main {
+  margin: 80px 30%;
+}
