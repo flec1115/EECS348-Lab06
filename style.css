@@ -9,8 +9,7 @@ body {
 
 main {
   margin: 80px 30%;
-  padding: 20px;
-  border: 2px;
+  border: 2px solid black;
   background-color:(255,255,255,1);
   color: blue;
   
